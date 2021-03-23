@@ -1,6 +1,7 @@
 ### Welcome friends👋
 
 ## About myself :octocat:
+```javascript
 const Khristian = () => ({
   pronouns: "He" | "Him",
   askMeAbout: [
@@ -16,6 +17,7 @@ const Khristian = () => ({
     "editors": [ "VSCode" ]
   }
 });
+```
 <p>
 <a href="(https://github.com/anuraghazra/github-readme-stats)">
   <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=karmaester&show_icons=true&bg_color=fbfaf9&hide_title=true&hide_border=true&line_height=21" style="max-width:100%;"  />
