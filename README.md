@@ -1,6 +1,6 @@
-### Welcome friends👋
+## Welcome friends👋
 
-## About myself :octocat:
+### About myself :octocat:
 ```javascript
 const Khristian = () => ({
   pronouns: "He" | "Him",
