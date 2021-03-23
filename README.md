@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karmaester&show_icons=true&bg_color=45,833ab4,cfd0d1,cfd0d1,e0e0e0,e0e0e0,fbfaf9,fbfaf9,fbfaf9)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmaester&layout=compact&bg_color=45,833ab4,cfd0d1,cfd0d1,e0e0e0,e0e0e0,fbfaf9,fbfaf9,fbfaf9)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karmaester&show_icons=true&bg_color=180,83b9f6,b0cff2,b0cff2,e0e0e0,e0e0e0,fbfaf9,fbfaf9,fbfaf9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmaester&layout=compact&bg_color=180,83b9f6,b0cff2,b0cff2,e0e0e0,e0e0e0,fbfaf9,fbfaf9,fbfaf9)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **karmaester/karmaester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
