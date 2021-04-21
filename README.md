@@ -17,6 +17,19 @@ const Khristian = () => ({
     "editors": [ "VSCode" ]
   }
 });
+
+<div align="center">
+  <img height="54px" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML">
+  <img height="54px" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS">
+  <img height="54px" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript">
+  <img height="54px" src="https://cdn.svgporn.com/logos/ruby.svg" alt="Ruby">
+  <img height="54px" src="https://cdn.svgporn.com/logos/rails.svg" alt="Rails">
+  <img height="54px" src="https://cdn.svgporn.com/logos/react.svg" alt="React">
+  <img height="54px" src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux">
+  <img height="54px" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="Git">
+</div>
+
+
 ```
 <p>
 <a href="(https://github.com/anuraghazra/github-readme-stats)">
