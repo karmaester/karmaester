@@ -8,11 +8,11 @@ const Khristian = () => ({
     "webdev", "tech", "data"
   ],
   technologies: {
-    "languages": [ "JavaScript", "Ruby", "Sass", "CSS"],
-    "CSS": ["Bulma", "Bootstrap"],
-    "web": [ "React","Node.js", "WebPack", "Babel", "Rails"],
-    "databases": [ "PostgreSQL", "MariaDB/MySQL", "SQLite" ],
-    "devOps": [ "Git"],
+    "languages": [ "JavaScript", "TypeScript", "Ruby"],
+    "CSS": ["Bulma", "Bootstrap", "Sass"],
+    "web": [ "React", "Node.js", "Rails", "Next", "Apollo server"],
+    "databases": [ "PostgreSQL", "MariaDB/MySQL", "SQLite", "GraphQL" ],
+    "devOps": [ "Git", "CI", "TDD"],
     "operatingSystems": [ "GNU/Linux", "Windows" ],
     "editors": [ "VSCode" ]
   }
