@@ -10,9 +10,9 @@ const Khristian = () => ({
   technologies: {
     "languages": [ "JavaScript", "TypeScript", "Ruby"],
     "CSS": ["Bulma", "Bootstrap", "Sass"],
-    "web": [ "React", "Node.js", "Rails", "Next", "Apollo server"],
-    "databases": [ "PostgreSQL", "MariaDB/MySQL", "SQLite", "GraphQL" ],
-    "devOps": [ "Git", "CI", "TDD"],
+    "web": [ "React", "Nest JS", "Rails on Rails", "Next JS" ],
+    "databases": [ "PostgreSQL", "MariaDB/MySQL", "SQLite", "GraphQL", "Mongo DB" ],
+    "devOps": [ "Git", "CI", "TDD", "Docker", "Kubernetes" ],
     "operatingSystems": [ "GNU/Linux", "Windows" ],
     "editors": [ "VSCode" ]
   }
