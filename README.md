@@ -5,16 +5,13 @@
 const Khristian = () => ({
   pronouns: "He" | "Him",
   askMeAbout: [
-    "webdev", "tech", "data"
+    "webdev", "arquitecture", " solution design", "data", "cloud"
   ],
   technologies: {
     "languages": [ "JavaScript", "TypeScript", "Ruby"],
-    "CSS": ["Bulma", "Bootstrap", "Sass"],
     "web": [ "React", "Nest JS", "Rails on Rails", "Next JS" ],
     "databases": [ "PostgreSQL", "MariaDB/MySQL", "SQLite", "GraphQL", "Mongo DB" ],
-    "devOps": [ "Git", "CI", "TDD", "Docker", "Kubernetes" ],
-    "operatingSystems": [ "GNU/Linux", "Windows" ],
-    "editors": [ "VSCode" ]
+    "devOps": [ "Git", "CI", "TDD", "Docker", "Kubernetes" ]
   }
 });
 
