@@ -35,7 +35,7 @@ const Khristian = () => ({
 
   <!-- Frameworks -->
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="55" height="55"/>
   </a>
   <a href="https://nestjs.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="55" height="55"/>
@@ -47,7 +47,7 @@ const Khristian = () => ({
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="55" height="55"/>
   </a>
   <a href="https://quarkus.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Quarkus_icon.svg" alt="Quarkus" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" alt="Quarkus" width="55" height="55"/>
   </a>
 
   <!-- Databases -->
@@ -72,10 +72,10 @@ const Khristian = () => ({
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
   </a>
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="55" height="55"/>
   </a>
   <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="OpenShift" width="55" height="55"/>
@@ -87,14 +87,25 @@ const Khristian = () => ({
     <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.svg" alt="ArgoCD" width="55" height="55"/>
   </a>
   <a href="https://www.sonarsource.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="Sonar" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="Sonar" width="55" height="55"/>
   </a>
 
   <!-- Cloud -->
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="55" height="55"/>
   </a>
+
+  <!-- Others -->
+  <a href="https://www.openapis.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" alt="OpenAPI" width="55" height="55"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="55" height="55"/>
+  </a>
 </p>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+          
 
 
 
