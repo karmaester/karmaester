@@ -38,7 +38,7 @@ const Khristian = () => ({
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="55" height="55"/>
   </a>
   <a href="https://nestjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="55" height="55"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="55" height="55"/>
   </a>
   <a href="https://rubyonrails.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="55" height="55"/>
