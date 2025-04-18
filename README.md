@@ -71,12 +71,6 @@ const Khristian = () => ({
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-ci-cd-devops-flat-flat-juicy-fish.png" alt="CI/CD" width="55" height="55"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Test-driven_development" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/null/test-passed.png" alt="TDD" width="55" height="55"/>
-  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="55" height="55"/>
   </a>
