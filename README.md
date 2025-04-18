@@ -104,8 +104,6 @@ const Khristian = () => ({
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="55" height="55"/>
   </a>
 </p>
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
           
 
 
