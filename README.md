@@ -29,10 +29,20 @@ Former language teacher turned engineer. I still believe the best code tells a c
 
 ### 📊 GitHub Activity
 
-<p>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=karmaester&show_icons=true&theme=default&bg_color=ffffff&hide_title=true&hide_border=true&line_height=21" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmaester&layout=compact&theme=default&bg_color=ffffff&hide_title=true&hide_border=true" />
+<p align="center">
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
 </p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/default/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
+</p>
+
 
 ---
 
