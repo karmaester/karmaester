@@ -1,116 +1,89 @@
-## Welcome friends👋
+# Hey, I'm Khris 👋
 
-### About myself :octocat:
-```javascript
-const Khristian = () => ({
-  pronouns: "He" | "Him",
-  askMeAbout: [
-    "webdev", "arquitecture", "solution design", "data", "cloud"
-  ],
-  technologies: {
-    "languages": [ "JavaScript", "TypeScript", "Java", "Ruby"],
-    "frameworks": [ "React", "Nest JS", "Rails on Rails", "Next JS", "Quarkus" ],
-    "databases": [ "PostgreSQL", "MySQL", "SQLite", "GraphQL", "Mongo DB" ],
-    "messaging" [ "Kafka", "IBM MQ", "AMQ" ]
-    "devOps": [ "Git", "CI", "TDD", "Docker", "Kubernetes", "Openshift", "Jenkins", "ArgoCD", "Sonar" ],
-    "cloud": [ "GCP" ]
-  }
-});
+**Technical Lead** building enterprise banking integrations by day, **founder** shipping Saas automation apps at night.
 
-```
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <!-- Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="55" height="55"/>
-  </a>
+Former language teacher turned engineer. I still believe the best code tells a clear story.
 
-  <!-- Frameworks -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="55" height="55"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="55" height="55"/>
-  </a>
-  <a href="https://rubyonrails.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="55" height="55"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="55" height="55"/>
-  </a>
-  <a href="https://quarkus.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" alt="Quarkus" width="55" height="55"/>
-  </a>
+---
 
-  <!-- Databases -->
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="55" height="55"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="55" height="55"/>
-  </a>
-  <a href="https://graphql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="55" height="55"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/>
-  </a>
+### 🔭 Currently
 
-  <!-- DevOps -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="55" height="55"/>
-  </a>
-  <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="OpenShift" width="55" height="55"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="55" height="55"/>
-  </a>
-  <a href="https://argoproj.github.io/cd/" target="_blank">
-    <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.svg" alt="ArgoCD" width="55" height="55"/>
-  </a>
-  <a href="https://www.sonarsource.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="Sonar" width="55" height="55"/>
-  </a>
+- Architecting high-availability banking middleware on OpenShift
+- Migrating side projects to AI oriented solutions
+- Studying for GCP Professional Cloud Architect certification
 
-  <!-- Cloud -->
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="55" height="55"/>
-  </a>
+---
 
-  <!-- Others -->
-  <a href="https://www.openapis.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" alt="OpenAPI" width="55" height="55"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="55" height="55"/>
-  </a>
-</p>
-          
+### 🛠 Tech I Work With
+
+**Day-to-day:** TypeScript · Java · NestJS · Quarkus · PostgreSQL · Kubernetes · OpenShift
+
+**Messaging & Integration:** IBM MQ · Kafka · API Connect · REST/GraphQL
+
+**Infrastructure:** Docker · ArgoCD · Jenkins · GCP · Sonar
+
+**Also comfortable with:** React · Next.js · Ruby on Rails · MongoDB · MySQL
+
+---
 
 
+### 📊 GitHub Activity
 
 <p>
-<a href="(https://github.com/anuraghazra/github-readme-stats)">
-  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=karmaester&show_icons=true&bg_color=fbfaf9&hide_title=true&hide_border=true&line_height=21" style="max-width:100%;"  />
-  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmaester&layout=compact&bg_color=fbfaf9&hide_title=true&hide_border=true&" style="max-width:100%;"  />
-</a>
- </p>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=karmaester&show_icons=true&theme=default&bg_color=ffffff&hide_title=true&hide_border=true&line_height=21" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmaester&layout=compact&theme=default&bg_color=ffffff&hide_title=true&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+I write about cloud architecture, AI automation, and the journey from educator to engineer.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+
+---
+
+<details>
+<summary>🧰 Full Tech Stack</summary>
+
+<br>
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+
+**Frameworks**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+**Messaging & Integration**
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![IBM MQ](https://img.shields.io/badge/IBM_MQ-052FAD?style=flat&logo=ibm&logoColor=white)
+
+**DevOps & Cloud**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+</details>
